@@ -1,0 +1,9 @@
+service\ClienteService.class
+impl\ClienteServiceImpl.class
+models\Endereco.class
+service\ViaCepService.class
+models\ClienteRepository.class
+models\Cliente.class
+models\EnderecoRepository.class
+one\Application.class
+controller\ClienteRestController.class

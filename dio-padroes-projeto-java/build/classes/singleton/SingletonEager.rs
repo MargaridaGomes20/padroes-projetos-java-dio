@@ -1,0 +1,1 @@
+one.singleton.SingletonEager

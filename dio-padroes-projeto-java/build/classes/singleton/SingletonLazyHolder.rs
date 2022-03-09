@@ -1,0 +1,2 @@
+one.singleton.SingletonLazyHolder
+one.singleton.SingletonLazyHolder$InstanceHolder
